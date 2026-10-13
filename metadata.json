@@ -1,0 +1,6 @@
+{
+  "name": "AutoDrop AI - Dropshipping Autônomo & Inteligência de Mercado",
+  "description": "Plataforma autônoma de dropshipping com IA: mineração de produtos, sincronização de estoque com fornecedores, criação de anúncios direcionados, precificação dinâmica e suporte ao cliente 24/7 com máxima privacidade de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
